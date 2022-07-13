@@ -14,6 +14,7 @@ public class AppiumTest {
 	public void Gayatri()
 	{
 		System.out.println("I am Gayatri");
+		System.out.println("I am a git changer 3");
 	}
 }
 
